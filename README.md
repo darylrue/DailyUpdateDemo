@@ -1,4 +1,4 @@
-# DailyUpdateDemo
+# Daily Update Demo
 
 ### Web Portal
 
