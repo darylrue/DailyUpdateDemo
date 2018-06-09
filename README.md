@@ -6,6 +6,10 @@
 
 <p>&nbsp;</p>
 
+![](docs/Calendar-preview.png)
+
+<p>&nbsp;</p>
+
 ### Automatically Populates Any Website
 
 ![](docs/Website.png)
