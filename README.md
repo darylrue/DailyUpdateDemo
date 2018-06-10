@@ -24,4 +24,4 @@
 
 ### Google Assistant Integration - Demo video coming soon
 
-"Hey Google, what's the WOD for today?"
+"Hey Google, what's the workout of the day?"
